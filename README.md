@@ -48,5 +48,6 @@ This file defines the TestNG test suite configuration. It specifies the test sui
 ## Test Execution
 
 ### Running the Tests
-To execute the tests and generate an HTML report, run the following command:
+To execute the tests and generate an HTML report, run the following command: mvn test
+
 
